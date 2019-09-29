@@ -13,11 +13,12 @@ Simple analysis of ~4000 Kickstarter projects using Excel.
    
    - Staff picked projects had a greatly increased probability of meeting funding goals.
      - Only 48% of non-staff picked projects met funding goals, while 87% of staff picked projects met funding goals.
+     - Campaigns in the film & video, music, photography, technology, and theater categories were the most staff picked. However, the probability of being staff picked was greatest in the film & video category.
+       - Documentaries in particular were chosen as staff picks, though they were successful whether or not they were staff picked.
      
    ![](https://github.com/L0per/Kickstarter-Excel-Analysis/blob/master/Readme_Images/Staff_Picks.png)
      
-     - Campaigns in the film & video, music, photography, technology, and theater categories were the most staff picked. However, the probability of being staff picked was greatest in the film & video category.
-       - Documentaries in particular were chosen as staff picks, though they were successful whether or not they were staff picked.
+     
        
    ![](https://github.com/L0per/Kickstarter-Excel-Analysis/blob/master/Readme_Images/Staff_Picks_Movies.png)
    
